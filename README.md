@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalost07/kalost07.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+Spoilers! ||rickroll||
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
