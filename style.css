@@ -1,0 +1,39 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-family: "Comic Sans MS";
+}
+
+a:link, a:visited {
+    background-color: #5ac354;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: green;
+}
+
+td, th, caption {
+    border: 2px transparent;
+    border-collapse: collapse;
+    border-radius: 10px;
+    padding: 10px 10px;
+    text-align: center;
+    background-color: #0000bb;
+    color: white;
+}
+
+    td:hover, th:hover {
+        background-color: white;
+        color: black;
+    }
